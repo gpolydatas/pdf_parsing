@@ -48,7 +48,7 @@ import pdfplumber
 # ============= CONFIGURATION (MODIFY THESE VALUES) =============
 PDF_PATH = 'test_hyperlinks_unified.pdf'
 AZURE_ENDPOINT = "https://northeurope.api.cognitive.microsoft.com/"
-AZURE_API_KEY = "e6701a20ceac461ba6debe024ab5744d"
+AZURE_API_KEY = ""
 CLAUDE_MODEL = "claude-3-7-sonnet-20250219"
 CLAUDE_API_KEY = ""  # Replace with your actual key
 OUTPUT_DIR = Path('output_images')
