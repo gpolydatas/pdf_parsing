@@ -50,7 +50,7 @@ PDF_PATH = 'test_hyperlinks_unified.pdf'
 AZURE_ENDPOINT = "https://northeurope.api.cognitive.microsoft.com/"
 AZURE_API_KEY = "e6701a20ceac461ba6debe024ab5744d"
 CLAUDE_MODEL = "claude-3-7-sonnet-20250219"
-CLAUDE_API_KEY = "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"  # Replace with your actual key
+CLAUDE_API_KEY = ""  # Replace with your actual key
 OUTPUT_DIR = Path('output_images')
 SIMILARITY_THRESHOLD = 0.75  # Threshold for considering images as duplicates (0-1, higher = stricter)
 # =============================================================
